@@ -31,28 +31,16 @@ const imageAltText = "laptop and design";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Development of a Statistical Information Simulator",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Implementation of an exponential regression algorithm in the backend using JavaScript, and creation of a user interface for the simulation history using the React framework.",
+    url: "https://github.com/nicolemcg/Censo",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Web App for primary school children to improve reading comprehension",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I was in charge of frontend development for the reading log using HTML & CSS, and its backend constraints using JavaScript and Firebase.",
+    url: "https://github.com/nicolemcg/colorinColorado",
   },
 ];
 
